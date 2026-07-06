@@ -1,3 +1,5 @@
+### Demo: [https://github.com/develop-juice/mini-shop](https://develop-juice.github.io/make-test/)
+
 ## Stack:
 
 1. TypeScript
